@@ -34,6 +34,17 @@ La estructura del proyecto es la siguiente:
     ├── main.py              # Archivo principal para ejecutar el proyecto
     ├── README.md  
 
+## IMPORTANTE
+
+Es necesario asignar los valores de conexión a la base de datos en el diccionario ubicado en el main.py
+
+    db_config = {
+        "host_name": "",
+        "user_name": "",
+        "user_password": "",
+        "db_name": ""
+    }
+
 Funcionalidades Principales:
 
 #### Clase DatabaseManager
