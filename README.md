@@ -48,15 +48,18 @@ Funcionalidades Principales:
 
 - Guarda todas las tablas de la base de datos en archivos Parquet para almacenamiento local.
 ´
+
     db_manager.save_tables_to_parquet(output_dir="parquet_tables")
-´
+
+
 #### Análisis de Clientes
 
 - Agrupa y cuenta los clientes por país y muestra los 5 países con más clientes.
 
-´  
-    db_manager.group_and_display_customers_by_country()
 ´
+
+    db_manager.group_and_display_customers_by_country()
+
 
 #### Análisis de Ventas
 
