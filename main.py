@@ -2,10 +2,10 @@ from database_manager import DatabaseManager
    
 if __name__ == "__main__":
     db_config = {
-        "host_name": "20.122.25.241",
-        "user_name": "Natalia_Cardona",
-        "user_password": "Skandia.123",
-        "db_name": "SkandiaBItest"
+        "host_name": "",
+        "user_name": "",
+        "user_password": "",
+        "db_name": ""
     }
 
     db_manager = DatabaseManager(**db_config)
