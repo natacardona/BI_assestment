@@ -10,7 +10,6 @@ Este proyecto tiene como objetivo realizar un análisis descriptivo de una base 
 ### Instalación de Librerías
 
 Asegúrate de instalar las siguientes librerías necesarias para el proyecto:
-´
 
     pip install pyarrow
 
