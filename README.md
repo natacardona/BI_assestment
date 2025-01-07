@@ -74,5 +74,6 @@ Realiza un análisis completo de las tablas Invoice y InvoiceLine:
 - Genera un top 5 de los géneros más vendidos.
 
 ´
+
     db_manager.analyze_sales()
-´
+
