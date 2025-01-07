@@ -45,7 +45,7 @@ Es necesario asignar los valores de conexión a la base de datos en el diccionar
         "db_name": ""
     }
 
-Funcionalidades Principales:
+## Funcionalidades Principales:
 
 #### Clase DatabaseManager
 
